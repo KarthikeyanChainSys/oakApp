@@ -1,1 +1,1 @@
-web:    sh target/bin/webapp
+web:    java -war target/oakApp-0.0.1-SNAPSHOT.war
